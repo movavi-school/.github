@@ -2,7 +2,9 @@
 
 <!-- <h1 align="center"> IT Школа Movavi </h1> -->
 <h1 align="center">
-  <img style="width:50%;" src="https://user-images.githubusercontent.com/84059957/201835248-a9334243-7cbb-4ea5-b7a9-2663c03f5861.png">
+  <img style="width:50%;" src="https://user-images.githubusercontent.com/84059957/201894150-a609e38d-d3d0-4600-8179-bb750316e8ed.png">
+
+  
   <p> Больше, чем просто курсы </p>
 </h1>
 
@@ -19,7 +21,7 @@
 </p>
 
 <a href="https://robotmovavi.ru/">
-  <img style="width:40%;" src="https://img.shields.io/badge/НАШ САЙТ-40b6fe?style=for-the-badge&logo=AngelList&logoColor=white">
+  <img style="width:40%;" src="https://img.shields.io/badge/НАШ САЙТ-231f20?style=for-the-badge&logo=AngelList&logoColor=white">
 </a>
 
 <h2>Наши курсы:</h2>
