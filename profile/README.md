@@ -21,7 +21,7 @@
 </p>
 
 <a href="https://robotmovavi.ru/">
-  <img style="width:30%;" src="https://img.shields.io/badge/НАШ САЙТ-231f20?style=for-the-badge&logo=AngelList&logoColor=white">
+  <img style="width:30%;" src="https://img.shields.io/badge/НАШ САЙТ-555?style=for-the-badge&logo=AngelList&logoColor=white">
 </a>
 
 <h2>Наши курсы:</h2>
