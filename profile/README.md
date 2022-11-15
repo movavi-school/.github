@@ -16,7 +16,7 @@
 
 <img align="left" src="https://user-images.githubusercontent.com/84059957/201833615-6c408e3c-41af-46c2-be83-ab42689fac49.gif">
 <p> 🇷🇺 Россия. Новосибирск. <br>
-    🌱 Работаем с 2016 года. <br>
+    🌱 Обучаем с 2016 года. <br>
     🆓 Бесплатные пробные уроки. <br>
 </p>
 
