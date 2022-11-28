@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center"><code>
-  Мы помогаем родителям превратить увлечение ребенка компьютером в полезные навыки, преимущества перед сверстниками и подготовку к успешному будущему.
+  Превращаем увлечение ребенка компьютером в полезные навыки, преимущества перед сверстниками и подготовку к успешному будущему.
   Мы учим детей тому, что умеем сами и что пригодится ребятам в будущем. 
   </code>
 </p>
@@ -45,7 +45,7 @@
 
 <h2>Связь с нами:</h2>
 <p>
-  <a href="https://t.me/school_movavi"><img src="https://img.shields.io/badge/TELEGRAM-white?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a href="https://vk.com/movavi_robot"><img src="https://img.shields.io/badge/VK-white?style=for-the-badge&logo=vk&logoColor=0077FF"></a>
-  <a href="https://www.youtube.com/channel/UCImtEJNLTcYVYgJV1EHkYig/videos"><img src="https://img.shields.io/badge/YouTube-white?style=for-the-badge&logo=youtube&logoColor=FF0000"></a>
+  <a href="https://t.me/school_movavi"><img src="https://img.shields.io/badge/TELEGRAM-whitesmoke?style=for-the-badge&logo=telegram&logoColor=26A5E4"></a>
+  <a href="https://vk.com/movavi_robot"><img src="https://img.shields.io/badge/VK-whitesmoke?style=for-the-badge&logo=vk&logoColor=0077FF"></a>
+  <a href="https://www.youtube.com/channel/UCImtEJNLTcYVYgJV1EHkYig/videos"><img src="https://img.shields.io/badge/YouTube-whitesmoke?style=for-the-badge&logo=youtube&logoColor=FF0000"></a>
 </p>
