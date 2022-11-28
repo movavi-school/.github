@@ -42,6 +42,8 @@
   <a href="https://robotmovavi.ru/gameart"><img src="https://img.shields.io/badge/GameArt-333?style=for-the-badge&logo=Game Jolt&logoColor=CCFF00"></a>
 </p>
 
+<!-- разрыв -->
+<picture><img src="https://user-images.githubusercontent.com/84059957/203399419-887c9bb7-421f-4a27-88bc-03fb7eabb8db.png"></picture>
 
 <h2>Связь с нами:</h2>
 <p>
