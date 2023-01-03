@@ -19,11 +19,11 @@
   </picture> &nbsp;Россия. Новосибирск. &nbsp;&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp;
   <br>
   <picture> 
-    <img height="20px;" src="https://user-images.githubusercontent.com/84059957/210338541-fdaa3189-9b47-48b7-9046-b13e4c257bf1.gif"> 
+    <img height="17px;" src="https://user-images.githubusercontent.com/84059957/210338541-fdaa3189-9b47-48b7-9046-b13e4c257bf1.gif"> 
   </picture> &nbsp;Бесплатные пробные уроки. 
   <br>
   <picture>
-    <img height="20px;" src="https://user-images.githubusercontent.com/84059957/210337505-48cdd127-b010-4b05-b36a-c2a4d3cdb6f5.gif"> 
+    <img height="17px;" src="https://user-images.githubusercontent.com/84059957/210337505-48cdd127-b010-4b05-b36a-c2a4d3cdb6f5.gif"> 
    </picture> &nbsp;Обучаем с 2016 года. &nbsp;&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp;
   <br>
   <br>
