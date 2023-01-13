@@ -2,7 +2,7 @@
 
 <!-- <h1 align="center"> IT Школа Movavi </h1> -->
 <h1 align="center">
-  <img style="width:50%;" src="https://user-images.githubusercontent.com/84059957/201894150-a609e38d-d3d0-4600-8179-bb750316e8ed.png">
+  <picture><img style="width:50%;" src="https://user-images.githubusercontent.com/84059957/201894150-a609e38d-d3d0-4600-8179-bb750316e8ed.png"></picture>
 
   <p> Больше, чем просто курсы </p>
 </h1>
