@@ -1,5 +1,3 @@
-<!-- Gifки тут: gifer.com/ru/gifs/%D0%BF%D1%80%D0%BE%D0%B7%D1%80%D0%B0%D1%87%D0%BD%D1%8B%D0%B9 -->
-
 <!-- <h1 align="center"> IT Школа Movavi </h1> -->
 <h1 align="center">
   <picture><img style="width:50%;" src="https://user-images.githubusercontent.com/84059957/201894150-a609e38d-d3d0-4600-8179-bb750316e8ed.png"></picture>
@@ -82,3 +80,5 @@
   <a href="https://vk.com/movavi_robot"><img src="https://img.shields.io/badge/VK-whitesmoke?style=for-the-badge&logo=vk&logoColor=0077FF"></a>
   <a href="https://www.youtube.com/channel/UCImtEJNLTcYVYgJV1EHkYig/videos"><img src="https://img.shields.io/badge/YouTube-whitesmoke?style=for-the-badge&logo=youtube&logoColor=FF0000"></a>
 </p>
+
+<!-- Made with ❤️ by github.com/smir-ant -->
